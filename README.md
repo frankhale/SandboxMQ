@@ -9,5 +9,5 @@ want to get this online but do not have the time to give it a proper introductio
 yet. Note that this code is quite old and contains an old copy of Aurora 
 (my MVC framework) and Miranda (my tiny wiki)**
 
-Frank Hale &lt;frank.hale@gmail.com&gt;
+Frank Hale &lt;frank.hale@gmail.com&gt;  
 11 April 2014
