@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<server>
+	<app name="Wiki" path="C:\Path\SandboxMQ\WebAppServer" ipaddress="127.0.0.1" port="9000" />
+</server>
